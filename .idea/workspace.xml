@@ -4,36 +4,65 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="645daf33-d9c0-410e-a771-fa802b852da2" name="Changes" comment="14.12.23.00.46">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ObserverPattern/OldObservableVersion/ExchangeRates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ObserverPattern/SwingObserver/SwingObserverExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SingeltonPattern/BuildGarden.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SingeltonPattern/GameWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StrategyPattern/ActionGame/AxeBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StrategyPattern/ActionGame/BowAndArrowBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StrategyPattern/ActionGame/Character.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StrategyPattern/ActionGame/KnifeBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StrategyPattern/ActionGame/Queen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StrategyPattern/ActionGame/SwordBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StrategyPattern/ActionGame/WeaponBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StrategyPattern/DuckProject/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StrategyPattern/DuckProject/FlyBehaviour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StrategyPattern/DuckProject/FlyNoWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StrategyPattern/DuckProject/FlyWithWings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StrategyPattern/DuckProject/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StrategyPattern/DuckProject/ModelDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StrategyPattern/DuckProject/Quack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StrategyPattern/DuckProject/QuackBehaviour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StrategyPattern/DuckProject/RocketEnabledFly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StrategyPattern/DuckProject/Squeak.java" afterDir="false" />
+    <list default="true" id="645daf33-d9c0-410e-a771-fa802b852da2" name="Changes" comment="14.12.23.12.27">
+      <change afterPath="$PROJECT_DIR$/src/main/clap.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AbstractFactory/StudentExample/AnadoluLisesiFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AbstractFactory/StudentExample/Cografya.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AbstractFactory/StudentExample/Ders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AbstractFactory/StudentExample/EsitAgirlikciOgrenci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AbstractFactory/StudentExample/FenLisesiFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AbstractFactory/StudentExample/Matematik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AbstractFactory/StudentExample/Ogrenci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AbstractFactory/StudentExample/Okul.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AbstractFactory/StudentExample/OkulFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AbstractFactory/StudentExample/SayicalciOgrenci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AbstractFactory/StudentExample/SozelciOgrenci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AbstractFactory/StudentExample/Turkce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CompositePattern/Family.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CompositePattern/FamilyComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CompositePattern/FamilyLister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CompositePattern/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecoraterPattern/AnimalBehaviours/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecoraterPattern/AnimalBehaviours/Behaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecoraterPattern/AnimalBehaviours/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecoraterPattern/AnimalBehaviours/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecoraterPattern/AnimalBehaviours/FlyBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecoraterPattern/AnimalBehaviours/Ostrich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecoraterPattern/AnimalBehaviours/RunBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecoraterPattern/Beverages/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecoraterPattern/Beverages/CondimentDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecoraterPattern/Beverages/DarkRoast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecoraterPattern/Beverages/Espresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecoraterPattern/Beverages/Mocha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecoraterPattern/Beverages/Soy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecoraterPattern/Beverages/Whip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DecoraterPattern/LowerCaseInputStream/LowerCaseInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IteratorPattern/AktasFamily.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IteratorPattern/AktasIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IteratorPattern/AllFamilyDisplayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IteratorPattern/Family.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IteratorPattern/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IteratorPattern/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IteratorPattern/SimsekFamily.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IteratorPattern/SimsekIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MVC/JavaDJ/BPMObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MVC/JavaDJ/BeatBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MVC/JavaDJ/BeatController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MVC/JavaDJ/BeatModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MVC/JavaDJ/BeatModelInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MVC/JavaDJ/BeatObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MVC/JavaDJ/ControllerInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MVC/JavaDJ/DJView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ObserverPattern/ExchangeRateObserver/DisplayExchangeRate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ObserverPattern/ExchangeRateObserver/ExchangeRateDataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ObserverPattern/ExchangeRateObserver/LiraDollarRateDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ObserverPattern/ExchangeRateObserver/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ObserverPattern/ExchangeRateObserver/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ObserverPattern/OldObservableVersion/DollarTLRate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ObserverPattern/OldObservableVersion/ExchangeRates.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +72,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -62,7 +92,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/yasinaktas/Desktop/patterns/src/main/java",
+    "last_opened_file_path": "/Users/yasinaktas/Desktop/patterns/src/main/java/MVC/JavaDJ",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -70,10 +100,17 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/MVC/JavaDJ" />
+      <recent name="$PROJECT_DIR$/src/main" />
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/main/java/MVC/JavaDJ" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.SwingObserverExample">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="patterns" />
@@ -96,8 +133,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SwingObserverExample" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SwingObserverExample" />
       </list>
     </recent_temporary>
   </component>
@@ -118,11 +155,31 @@
       <option name="project" value="LOCAL" />
       <updated>1702504018977</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="14.12.23.12.27">
+      <option name="closed" value="true" />
+      <created>1702546051007</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702546051007</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="14.12.23.00.46" />
-    <option name="LAST_COMMIT_MESSAGE" value="14.12.23.00.46" />
+    <MESSAGE value="14.12.23.12.27" />
+    <option name="LAST_COMMIT_MESSAGE" value="14.12.23.12.27" />
   </component>
 </project>
